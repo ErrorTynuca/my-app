@@ -1,0 +1,17 @@
+.nav div {
+    font-size: 17px;
+    padding: 5px 5px 3px 20px;
+}
+
+.nav {
+    background: #ffffff;
+    grid-area: n;
+}
+
+.item .activeLink  {
+    color: gold;
+}
+
+.item a {
+    text-decoration: none;
+}

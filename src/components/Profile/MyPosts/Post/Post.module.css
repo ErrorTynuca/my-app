@@ -1,0 +1,11 @@
+.item img {
+    width: 50px;
+    border-radius: 20px;
+}
+
+.item {
+    color: blue;
+    font-size: 20px;
+    font-family: cursive;
+    background: cornflowerblue;
+}
