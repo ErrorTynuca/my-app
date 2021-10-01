@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/RoadWay/static/css/main.80cdd188.chunk.css",
+    "main.js": "/RoadWay/static/js/main.0be89f53.chunk.js",
+    "main.js.map": "/RoadWay/static/js/main.0be89f53.chunk.js.map",
+    "runtime-main.js": "/RoadWay/static/js/runtime-main.c249dc76.js",
+    "runtime-main.js.map": "/RoadWay/static/js/runtime-main.c249dc76.js.map",
+    "static/js/2.e0a3acdc.chunk.js": "/RoadWay/static/js/2.e0a3acdc.chunk.js",
+    "static/js/2.e0a3acdc.chunk.js.map": "/RoadWay/static/js/2.e0a3acdc.chunk.js.map",
+    "static/css/3.a855e58e.chunk.css": "/RoadWay/static/css/3.a855e58e.chunk.css",
+    "static/js/3.c3e28144.chunk.js": "/RoadWay/static/js/3.c3e28144.chunk.js",
+    "static/js/3.c3e28144.chunk.js.map": "/RoadWay/static/js/3.c3e28144.chunk.js.map",
+    "static/css/4.a4b66232.chunk.css": "/RoadWay/static/css/4.a4b66232.chunk.css",
+    "static/js/4.cce8e748.chunk.js": "/RoadWay/static/js/4.cce8e748.chunk.js",
+    "static/js/4.cce8e748.chunk.js.map": "/RoadWay/static/js/4.cce8e748.chunk.js.map",
+    "static/js/5.ec68eeb5.chunk.js": "/RoadWay/static/js/5.ec68eeb5.chunk.js",
+    "static/js/5.ec68eeb5.chunk.js.map": "/RoadWay/static/js/5.ec68eeb5.chunk.js.map",
+    "index.html": "/RoadWay/index.html",
+    "static/css/3.a855e58e.chunk.css.map": "/RoadWay/static/css/3.a855e58e.chunk.css.map",
+    "static/css/4.a4b66232.chunk.css.map": "/RoadWay/static/css/4.a4b66232.chunk.css.map",
+    "static/css/main.80cdd188.chunk.css.map": "/RoadWay/static/css/main.80cdd188.chunk.css.map",
+    "static/js/2.e0a3acdc.chunk.js.LICENSE.txt": "/RoadWay/static/js/2.e0a3acdc.chunk.js.LICENSE.txt",
+    "static/media/_______.77dd8198.gif": "/RoadWay/static/media/_______.77dd8198.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c249dc76.js",
+    "static/js/2.e0a3acdc.chunk.js",
+    "static/css/main.80cdd188.chunk.css",
+    "static/js/main.0be89f53.chunk.js"
+  ]
+}
